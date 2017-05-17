@@ -1,5 +1,5 @@
 # Build and Release Folders
-bin/
+bin/valdone
 bin-debug/
 bin-release/
 [Oo]bj/ # FlashDevelop obj
